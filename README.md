@@ -1,3 +1,3 @@
 # Java-stuffs
 
-Java Stuffs.
+Java Stuffs
