@@ -24,9 +24,17 @@ public class App {
         System.out.println("\n");
         System.out.println("Float: " + Float.MIN_VALUE + " a " + Float.MAX_VALUE);
         System.out.println("Double: " + Double.MIN_VALUE + " a " + Double.MAX_VALUE);
+        System.out.println("\n");
 
+        System.out.println("Tipos de caractere");
 
-        
+        char letra = 'A';
+        chat letraAcentuada = '\u00DA'; // Ù
+        System.out.println("\n");
+
+        System.out.println("Tipo booleano");
+
+        boolean concederDesconto = false;
 
     }
 }
