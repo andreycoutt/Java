@@ -13,7 +13,6 @@ public class App {
         System.out.println("Short: " + Short.MIN_VALUE + " a " + Short.MAX_VALUE);
 
         System.out.println("Integer: " + Integer.MIN_VALUE + " a " + Integer.MAX_VALUE);
-        
         System.out.println("Long: " + Long.MIN_VALUE + " a " + Long.MAX_VALUE);
 
     }
