@@ -34,7 +34,8 @@ public class App {
 
         System.out.println("Tipo booleano");
 
-        boolean concederDesconto = false;
+        boolean concederDesconto = true;
+        boolean naoconcederDesconto = false;
 
     }
 }
