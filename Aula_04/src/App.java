@@ -29,13 +29,24 @@ public class App {
         System.out.println("Tipos de caractere");
 
         char letra = 'A';
-        chat letraAcentuada = '\u00DA'; // Ù
+        char letraAcentuada = '\u00DA'; // Ù
         System.out.println("\n");
 
         System.out.println("Tipo booleano");
 
         boolean concederDesconto = true;
         boolean naoconcederDesconto = false;
+
+
+
+
+
+
+        int x1 = 100;
+        int x2 = x1;
+        x1 = 200;
+        System.out.println("x1: " + x1);
+        System.out.println("x2: " + x2);
 
     }
 }
