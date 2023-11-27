@@ -41,6 +41,5 @@ public class App {
         x1 = 200;
         System.out.println("x1: " + x1);
         System.out.println("x2: " + x2);
-
     }
 }
