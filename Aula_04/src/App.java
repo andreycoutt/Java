@@ -37,7 +37,6 @@ public class App {
         boolean concederDesconto = true;
         boolean naoconcederDesconto = false;
 
-
         int x1 = 100;
         int x2 = x1;
         x1 = 200;
